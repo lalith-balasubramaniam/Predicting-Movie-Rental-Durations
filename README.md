@@ -43,6 +43,7 @@ This project builds a regression model to predict the duration (in days) that cu
 - `rental_duration_prediction.ipynb`: Jupyter Notebook with code for data preprocessing, model training, and evaluation.
 - `README.md`: Project description and instructions.
 - `requirements.txt`: List of dependencies needed to run the project.
+- 'rental_info.csv' : Data Source
 
 ## Setup
 1. **Install Required Libraries**:
