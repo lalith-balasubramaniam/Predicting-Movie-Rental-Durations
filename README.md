@@ -55,3 +55,5 @@ This project builds a regression model to predict the duration (in days) that cu
 ## Conclusion
 This project provides a regression model that effectively predicts DVD rental durations. By leveraging this model, the DVD rental company can improve its inventory management, resulting in a more efficient and customer-friendly operation.
 
+## Licenses
+The dataset is provided by Datacamp
